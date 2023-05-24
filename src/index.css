@@ -20,37 +20,22 @@ body {
   background-color: #df4581;
 }
 
-/* DETAILS PAGE */
-
-
-/* END DETAILS PAGE */
-
-/* =========================================== */
-
-/* FOOTER */
-
 .footer-title {
   text-align: center;
   padding: 2%;
 }
 
-/* END FOOTER */
-
-/* =========================================== */
-
 /* RESPONSIVE */
 
 @media screen and (min-width: 768px) {
-  /* NAVBAR */
   .navTitle a {
     font-size: 2em;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  /* NAVBAR */
   .navTitle a {
-    font-size: 2.0em;
+    font-size: 2em;
   }
 
   .back {
