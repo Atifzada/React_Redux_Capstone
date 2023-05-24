@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router';
 import { IoChevronBackSharp } from 'react-icons/io5';
 import { Link } from 'react-router-dom';
-import logo from '../media/logo.svg';
+import logo from '../media/logo.png';
 import '../styles/Navigation.css';
 
 const Nav = () => {
