@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Footer Component footer renders correctly 1`] = `
+exports[`Footer testing footer renders correctly 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>

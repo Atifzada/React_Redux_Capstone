@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import Footer from '../components/Footer';
 import store from '../redux/store';
 
-describe('Footer Component', () => {
+describe('Footer testing', () => {
   test('footer renders correctly', () => {
     const tree = render(
       <Provider store={store}>
