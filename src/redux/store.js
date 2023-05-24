@@ -1,10 +1,10 @@
 import { configureStore, combineReducers } from '@reduxjs/toolkit';
 import cryptoReducer from './cryptoSlice';
-// import detailsReducer from './detailSlice';
+import detailsReducer from './detailSlice';
 
 const reducer = combineReducers({
   crypto: cryptoReducer,
-  // details: detailsReducer,
+  cryptoDetails: detailsReducer,
 });
 
 const store = configureStore({ reducer });

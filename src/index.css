@@ -20,9 +20,14 @@ body {
   background-color: #df4581;
 }
 
-.darker-detail {
-  background: #f6699a;
-}
+/* DETAILS PAGE */
+
+
+/* END DETAILS PAGE */
+
+/* =========================================== */
+
+/* FOOTER */
 
 .footer-title {
   text-align: center;
@@ -38,14 +43,14 @@ body {
 @media screen and (min-width: 768px) {
   /* NAVBAR */
   .navTitle a {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 }
 
 @media screen and (min-width: 1024px) {
   /* NAVBAR */
   .navTitle a {
-    font-size: 2em;
+    font-size: 2.0em;
   }
 
   .back {
@@ -67,7 +72,7 @@ body {
     font-size: 1.21em;
   }
 
-  .details-card {
+  .detailsCard {
     width: 60%;
     font-size: 1.25em;
   }
