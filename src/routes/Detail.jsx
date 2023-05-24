@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react';
 import { useParams } from 'react-router';
 import { useSelector, useDispatch } from 'react-redux';
+import React, { useEffect } from 'react';
 import { getDetails } from '../redux/detailSlice';
 import '../styles/Details.css';
 
