@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`NavBar Renders accuratly  1`] = `
+exports[`Navigation page testing Renders nav accuratly  1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>

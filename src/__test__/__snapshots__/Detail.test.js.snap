@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CryptoDetail Component renders correctly when crypto details are available 1`] = `
+exports[`CryptoDetail page testing renders correctly when crypto details are available 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>

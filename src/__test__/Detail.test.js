@@ -5,7 +5,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import store from '../redux/store';
 import CryptoDetails from '../routes/Detail';
 
-describe('CryptoDetail Component', () => {
+describe('CryptoDetail page testing', () => {
   test('renders correctly when crypto details are available', () => {
     const tree = render(
       <Provider store={store}>

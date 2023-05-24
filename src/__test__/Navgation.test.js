@@ -6,8 +6,8 @@ import Nav from '../components/Navgation';
 import store from '../redux/store';
 import '@testing-library/jest-dom/extend-expect';
 
-describe('NavBar', () => {
-  test('Renders accuratly ', () => {
+describe('Navigation page testing', () => {
+  test('Renders nav accuratly ', () => {
     const tree = render(
       <Provider store={store}>
         <Router>

@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 import store from '../redux/store';
 
 describe('Footer Component', () => {
-  test('Renders correctly', () => {
+  test('footer renders correctly', () => {
     const tree = render(
       <Provider store={store}>
         <Router>
