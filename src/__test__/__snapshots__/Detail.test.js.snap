@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CryptoDetail Component renders correctly when crypto details are available 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="detailsCard myflex"
+      >
+        <h2
+          class="detailsTitle"
+        />
+        <img
+          alt="crypto icon"
+          class="detailsIcon"
+        />
+        <div
+          class="detailsContainer"
+        >
+          <div
+            class="detailsSpecifications detailsBG"
+          >
+            <span
+              class="detailsText"
+            >
+              Abbrivation:
+            </span>
+          </div>
+          <div
+            class="detailsSpecifications"
+          >
+            <span
+              class="detailsText"
+            >
+              MarketCap: $
+            </span>
+          </div>
+          <div
+            class="detailsSpecifications detailsBG"
+          >
+            <span
+              class="detailsText"
+            >
+              Changes Rate (1H) :
+            </span>
+          </div>
+          <div
+            class="detailsSpecifications"
+          >
+            <a />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="detailsCard myflex"
+    >
+      <h2
+        class="detailsTitle"
+      />
+      <img
+        alt="crypto icon"
+        class="detailsIcon"
+      />
+      <div
+        class="detailsContainer"
+      >
+        <div
+          class="detailsSpecifications detailsBG"
+        >
+          <span
+            class="detailsText"
+          >
+            Abbrivation:
+          </span>
+        </div>
+        <div
+          class="detailsSpecifications"
+        >
+          <span
+            class="detailsText"
+          >
+            MarketCap: $
+          </span>
+        </div>
+        <div
+          class="detailsSpecifications detailsBG"
+        >
+          <span
+            class="detailsText"
+          >
+            Changes Rate (1H) :
+          </span>
+        </div>
+        <div
+          class="detailsSpecifications"
+        >
+          <a />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
