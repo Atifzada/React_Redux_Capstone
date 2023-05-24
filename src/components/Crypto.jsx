@@ -14,7 +14,7 @@ const Crypto = ({
       <img src={img} alt="Currency Name" className="logo" />
     </div>
     <div className="myCard myflex">
-      <div className="leftCard myflex card-column">
+      <div className="leftCard myflex cardCol">
         <p>
           <span className="cardTitle">Name:</span>
           {name}
@@ -24,7 +24,7 @@ const Crypto = ({
           {symbol}
         </p>
       </div>
-      <div className="rightCardmyflex card-column">
+      <div className="rightCard cardCol">
         <p>
           <span className="cardTitle">Price: $</span>
           {price.toFixed(2)}

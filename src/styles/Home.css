@@ -51,6 +51,7 @@
   backdrop-filter: blur(120px);
   background-color: hsla(0, 0%, 100%, 0.123);
   border-radius: 10px;
+  margin-left: 5%;
 }
 
 .title {

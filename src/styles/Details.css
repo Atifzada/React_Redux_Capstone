@@ -1,0 +1,42 @@
+.detailsBG {
+  background: #f6699b;
+}
+
+.detailsCard {
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(to bottom right, #f6699a, #cb4278);
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  padding: 3%;
+  width: 92%;
+  margin: 4% auto;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 32%;
+}
+
+.detailsTitle {
+  margin-bottom: 6%;
+}
+
+.detailsContainer {
+  margin-top: 6%;
+}
+
+.detailsIcon {
+  width: 7.1em;
+  height: 7.1em;
+}
+
+.detailsSpecifications {
+  margin: 4%;
+  font-size: 1.1em;
+  overflow: hidden;
+  width: 95%;
+}
+
+.detailsSpecifications a {
+  color: #fff;
+  text-decoration: none;
+}

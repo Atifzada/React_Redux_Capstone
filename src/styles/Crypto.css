@@ -16,11 +16,13 @@
 
 .myCard {
   flex-direction: column;
+  align-items: center;
 }
 
-.card-column {
+.cardCol {
   padding: 2%;
   margin-bottom: 2%;
+  text-align: center;
 }
 
 .leftCard {
