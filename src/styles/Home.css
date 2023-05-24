@@ -1,0 +1,73 @@
+.CurrTitle {
+  padding: 3%;
+  color: #fff;
+  font-size: 1.4em;
+}
+
+.mainContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 21px;
+  padding-top: 6%;
+  margin-right: 3%;
+  margin-left: 3%;
+}
+
+.currencyContainer {
+  width: 99%;
+  margin-bottom: 6%;
+  border-radius: 10%;
+  color: #fff;
+  box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.currencyContainer:hover {
+  transition: 0.5s ease-in-out;
+  background: transparent;
+  box-shadow: 0 0 1em #8e2c50;
+  border: 2px solid #8e2c50;
+}
+
+.currencyContainer:nth-child(odd) {
+  background-color: #df4581;
+}
+
+.currencyContainer:nth-child(even) {
+  background-color: #c43d71;
+}
+
+.noRecord {
+  color: #fff;
+  text-align: center;
+}
+
+.noRecordTitle {
+  margin-bottom: 2%;
+}
+
+.noRecordImg {
+  width: 20em;
+  height: 20em;
+  backdrop-filter: blur(120px);
+  background-color: hsla(0, 0%, 100%, 0.123);
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+}
+
+.input {
+  text-align: center;
+}
+
+.input input {
+  width: 72%;
+  height: 2.812rem;
+  margin: 12%;
+  border-radius: 7px;
+  padding: 1.1rem;
+  border: solid 2px #e8e8e7;
+  background-color: #fff;
+}
