@@ -1,40 +1,40 @@
 nav {
-    margin-bottom: 12%;
-    color: #fff;
-  }
-  
-  .navBox {
-    padding: 6%;
-    align-items: center;
-    justify-content: space-between;
-  }
-  
-  /* NavBar Center */
-  .navTitle {
-    width: 70%;
-    text-align: center;
-    align-items: center;
-    margin-left: 28%;
-  }
-  
-  .navTitle a {
-    color: #fff;
-    text-decoration: none;
-    display: flex;
-    gap: 11px;
-    font-size: 1.101em;
-  }
-  
-  .navLogo {
-    width: 11%;
-  }
-  
-  /* Nav Side */
-  .back {
-    width: 15%;
-    cursor: pointer;
-  }
-  
-  .back:hover {
-    transform: scale(1.1);
-  }
+  margin-bottom: 12%;
+  color: #fff;
+}
+
+.navBox {
+  padding: 6%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* NavBar Center */
+.navTitle {
+  width: 70%;
+  text-align: center;
+  align-items: center;
+  margin-left: 28%;
+}
+
+.navTitle a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  gap: 11px;
+  font-size: 1.101em;
+}
+
+.navLogo {
+  width: 11%;
+}
+
+/* Nav Side */
+.back {
+  width: 15%;
+  cursor: pointer;
+}
+
+.back:hover {
+  transform: scale(1.1);
+}
