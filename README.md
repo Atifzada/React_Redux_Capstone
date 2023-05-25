@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<img src="./src/media/CryptocurrencyLogo.png" alt="Logo" width="200">
+<img src="./src/media/logo.png" alt="Logo" width="200">
   <h2><b>CryptoCurrency Tracker (CCT)</b></h2>
    <h4><b>Readme</b></h4>
 
@@ -72,7 +72,7 @@ Our application fetches the information from this [API](https://documenter.getpo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming soon
+-[Live] (https://atifcryptotracker.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
