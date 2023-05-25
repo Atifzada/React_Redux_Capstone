@@ -180,7 +180,7 @@ Otherwise, you can see the project deployed in Render in the live demo.
 ## :movie_camera: Project Presentation <a name="project-presentation"></a>
 
 - [Presentation]
-[Live](https://www.loom.com/share/307e193fb7f2468198ef0a72fc145d90)
+[Click here for Live presentation](https://www.loom.com/share/307e193fb7f2468198ef0a72fc145d90)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
