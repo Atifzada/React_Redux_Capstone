@@ -131,7 +131,7 @@ To run the project, execute the following command in your terminal (inside the p
 
 ### Run Tests <a name="run-tests"></a>
 
-To run the the tests, you will have to run the following command in the console (inside the project folder): 
+To run the the tests, you have to run the following command in the console (inside the project folder): 
 
 - npm install
 
