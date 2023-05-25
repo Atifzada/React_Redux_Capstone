@@ -72,7 +72,7 @@ Our application fetches the information from this [API](https://documenter.getpo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--[Live] (https://atifcryptotracker.netlify.app/)
+[click here for Live link](https://atifcryptotracker.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
