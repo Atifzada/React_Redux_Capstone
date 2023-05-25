@@ -39,7 +39,7 @@
 # CryptoCurrency Tracker <a name="about-project"></a>
 
 Welcome to MY Crypto Tracker! 
-CCT Is a SPA (single-page application) where you cand find information about the best 30 cryptocurrency at the market right now. 
+MCT Is a SPA (single-page application) where you can find information about the best cryptocurrency at the market right now. 
 Our application fetches the information from this [API](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest#intro), and displays it in a well structured page, where the user can also look for a crypto in particular
 
 ## 🛠 Built With <a name="built-with"></a>
