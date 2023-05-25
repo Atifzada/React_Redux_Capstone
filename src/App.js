@@ -13,7 +13,7 @@ function App() {
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/details/" element={<CryptoDetails />} />
+          <Route path="/details/:currencyID" element={<CryptoDetails />} />
         </Routes>
         <Footer />
       </Provider>
