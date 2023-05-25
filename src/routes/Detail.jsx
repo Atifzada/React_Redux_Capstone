@@ -14,7 +14,7 @@ const CryptoDetails = () => {
   }, [currencyID, dispatch]);
 
   if (!cryptoDetails || cryptoDetails.isLoading) {
-    return <div>Loading...</div>;
+    return <div>Loading please wait...</div>;
   }
 
   return (
