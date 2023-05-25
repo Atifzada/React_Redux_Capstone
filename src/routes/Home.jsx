@@ -19,7 +19,6 @@ const Home = () => {
       fetchStanding.current = false;
       dispatch(getCrypto());
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const checkClick = (item) => {
