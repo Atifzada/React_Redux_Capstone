@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router';
@@ -19,7 +20,6 @@ const Home = () => {
       fetchStanding.current = false;
       dispatch(getCrypto());
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const checkClick = (item) => {
