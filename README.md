@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<img src="./src/media/CryptocurrencyLogo.png" alt="Logo" width="200">
+<img src="./src/media/logo.png" alt="Logo" width="200">
   <h2><b>CryptoCurrency Tracker (CCT)</b></h2>
    <h4><b>Readme</b></h4>
 
@@ -39,7 +39,7 @@
 # CryptoCurrency Tracker <a name="about-project"></a>
 
 Welcome to MY Crypto Tracker! 
-CCT Is a SPA (single-page application) where you cand find information about the best 30 cryptocurrency at the market right now. 
+MCT Is a SPA (single-page application) where you can find information about the best cryptocurrency at the market right now. 
 Our application fetches the information from this [API](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest#intro), and displays it in a well structured page, where the user can also look for a crypto in particular
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -72,7 +72,7 @@ Our application fetches the information from this [API](https://documenter.getpo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Comming soon
+-[Live] (https://atifcryptotracker.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +179,8 @@ Otherwise, you can see the project deployed in Render in the live demo.
 
 ## :movie_camera: Project Presentation <a name="project-presentation"></a>
 
-- [Presentation]comming soon
+- [Presentation]
+[Live](https://www.loom.com/share/307e193fb7f2468198ef0a72fc145d90)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
