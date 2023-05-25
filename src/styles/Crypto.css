@@ -1,0 +1,41 @@
+.arrow {
+  text-align: end;
+  padding-right: 6%;
+  padding-top: 6%;
+}
+
+.logoBox {
+  text-align: center;
+  padding-top: 2.5%;
+}
+
+.logo {
+  width: 5.1em;
+  height: 5.1em;
+}
+
+.myCard {
+  flex-direction: column;
+  align-items: center;
+}
+
+.cardCol {
+  padding: 2%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.leftCard {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.rightCard {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: end;
+}
+
+.cardTitle {
+  margin-right: 6px;
+}
