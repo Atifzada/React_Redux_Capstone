@@ -6,7 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <h3
-        class="footer-title darker-bg"
+        class="FooterText darker-bg"
       >
         React_Redux_Capstone project by Atif Zada 2023 ©
       </h3>
@@ -14,7 +14,7 @@ Object {
   </body>,
   "container": <div>
     <h3
-      class="footer-title darker-bg"
+      class="FooterText darker-bg"
     >
       React_Redux_Capstone project by Atif Zada 2023 ©
     </h3>
